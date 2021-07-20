@@ -1,4 +1,6 @@
-### Hi there 👋, Anderson Pids here!
+## Hi there 👋, Anderson Pids here!
+
+### ⚡ I'm a farm boy working with computers, what could go wrong?
 
 <!--
 **anderson-pids/anderson-pids** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,14 +9,10 @@
 
 ## About me
 - 🔭 I’m currently working on tagging of resources and dominoes game
-- 🌱 I’m currently learning about IaC, containers orchastrators, tools and techniques of observability
+- 🌱 I’m currently learning about IaC, containers orchestration, tools and techniques of observability
 - 👯 I’m looking to collaborate on projects about agro business
 - 🤔 I’m exploring new technologies and developing software solutions
 - 💬 Ask me about datadog, nodejs addons, rec. systems and search engines
-
-
-
-⚡ I'm a farm boy working with computers, what could go wrong?
 
 ## :gear: Stats:
 
