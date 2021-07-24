@@ -10,7 +10,7 @@
 ## About me
 - 🔭 I’m currently working on tagging of resources and dominoes game
 - 🌱 I’m currently learning about IaC, containers orchestration, tools and techniques of observability
-- 👯 I’m looking to collaborate on projects about agro business
+- 👯 I’m looking to collaborate on agro business projects
 - 🤔 I’m exploring new technologies and developing software solutions
 - 💬 Ask me about datadog, nodejs addons, rec. systems and search engines
 
