@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning about IaC, containers orchestration, tools and techniques of observability
 - 👯 I’m looking to collaborate on agro business projects
 - 🤔 I’m exploring new technologies and developing software solutions
-- 💬 Ask me about datadog, nodejs addons, rec. systems and search engines
+- 💬 Ask me about observability, rec. systems and search engines
 
 ## :gear: Stats:
 
