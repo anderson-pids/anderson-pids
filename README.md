@@ -8,7 +8,7 @@
 -->
 
 ## About me
-- 🔭 I’m currently working on tagging of resources and dominoes game
+- 🔭 I’m currently working on tagging of resources and creation of kubernetes clusters
 - 🌱 I’m currently learning about IaC, containers orchestration, tools and techniques of observability
 - 👯 I’m looking to collaborate on agro business projects
 - 🤔 I’m exploring new technologies and developing software solutions
