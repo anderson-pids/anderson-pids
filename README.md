@@ -24,3 +24,5 @@
 <a href="https://www.linkedin.com/in/andersonpimentel/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Anderson%20Pimentel-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:apds.anderson@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-apds.anderson@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
+
+![Snake animation](https://github.com/anderson-pids/anderson-pids/blob/output/github-contribution-grid-snake.svg)
