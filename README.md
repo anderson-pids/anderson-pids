@@ -16,8 +16,11 @@
 
 ## :gear: Stats:
 
-[![Anderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=anderson-pids&?count_private=true&show_icons=true&theme=dracula)](https://github.com/anderson-pids/anderson-pids#readme)
-[![Anderson's Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-pids&layout=compact&langs_count=7&theme=dracula)](https://github.com/anderson-pids/anderson-pids#readme)
+<div>
+  <a href="https://github.com/anderson-pids/anderson-pids#readme">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anderson-pids&?count_private=true&include_all_commits=true&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-pids&layout=compact&langs_count=7&theme=dracula"/>
+</div> 
 
 ## 📫 How to reach me
 <p align="center">
