@@ -10,9 +10,9 @@
 ## About me
 - 🔭 I’m currently working on golang projects + kafka + prometheus + grafana/datadog + kubernetes
 - 🌱 I’m currently learning about IaC, containers orchestration, tools and techniques of observability
-- 👯 I’m looking to collaborate on agro business projects
-- 🤔 I’m exploring new technologies and developing software solutions
-- 💬 Ask me about observability, rec. systems and search engines
+- 👯 I’m looking for new fintech projects to collaborate
+- 🤔 I’m exploring new technologies, trying to start a blog to describe my discovers and studyng to develop software in performatic way
+- 💬 Ask me about observability
 
 ## :gear: Stats:
 
