@@ -6,11 +6,9 @@
 -->
 
 ## About me
-- 🔭 I’m currently working on golang projects + kafka + prometheus + grafana/datadog + kubernetes
-- 🌱 I’m currently learning about IaC, containers orchestration, tools and techniques of observability
-- 👯 I’m looking for new fintech projects to collaborate
-- 🤔 I’m exploring new technologies, trying to start a blog to describe my discovers and studyng to develop software in performatic way
-- 💬 Ask me about observability
+- 🔭 I’m currently looking for golang projects to develop
+- 🌱 I’m currently learning about techniques of observability
+- 🤔 I’m exploring new technologies, trying to start a blog to describe my discovers
 
 ## :gear: Stats:
 
