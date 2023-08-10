@@ -1,9 +1,6 @@
 ## Hi there 👋, Anderson Pids here!
 
-<!--
-**anderson-pids/anderson-pids** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
--->
 
 ## About me
 - 🔭 I’m currently looking for golang projects to develop
