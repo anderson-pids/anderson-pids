@@ -1,12 +1,5 @@
 ## Hi there 👋, Anderson Pids here!
 
-
-
-## About me
-- 🔭 I’m currently looking for golang projects to develop
-- 🌱 I’m currently learning about techniques of observability
-- 🤔 I’m exploring new technologies, trying to start a blog to describe my discovers
-
 ## :gear: Stats:
 
 <div>
